@@ -1,8 +1,10 @@
 <h1 align="center">Hi 👋, I'm Trevor Muiruri</h1>
 <h3 align="center">Designer and Developer</h3
 
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
 
+<br/>
+
+<img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
 
 - 💻 All of my projects are available at [---0---](---0---)
 - 👨🏾‍💻 I’m currently learning **Frameworks, Web Development, Back-end Development**
@@ -67,20 +69,13 @@
   </a> 
 </p>
 
+<br/>
 
 
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muiruritrevor&show_icons=true&locale=en&layout=compact" alt="muiruritrevor's most used languages" />
-</p>
-
-<p>
-  &nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muiruritrevor&show_icons=true&locale=en" alt="muiruritrevor's GitHub stats" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muiruritrevor&" alt="muiruritrevor's GitHub streak" />
-</p>
-
-
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=muiruritrevor&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="Top Languages" /> 
+  <img src="https://streak-stats.demolab.com?user=muiruritrevor&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="GitHub Streak" /> 
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=muiruritrevor&radius=16&theme=react&area=true" height="300" alt="GitHub Activity Graph" />
+</div>
 
 
