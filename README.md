@@ -1,13 +1,17 @@
-  ## Hi 👋, my name is Trevor
+<h1 align="center">Hi 👋, I'm Trevor Muiruri</h1>
+<h3 align="center">Designer and Developer</h3
 
-I'm from Kenya, I Design and Develop cool things. I really enjoy learning languages and frameworks. I also enjoy wire-framing, UI, UX and design in general. I plan to use X for learning in public and for that you can check-out my page
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muiruritrevor&label=Profile%20views&color=0e75b6&style=flat" alt="Trevor" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=muiruritrevor" alt="trevor" /></a> </p>
+
 
 
 - 💻 All of my projects are available at
-- 👨🏾‍💻 I’m currently learning Back-End Web Dev 
+- 👨🏾‍💻 I’m currently learning 
 - 💬 Ask me about Python, Java, Django 
 - 📫 How to reach me: trevormuirurii@gmail.com 
-- ⚡ Fun fact: I love food 
+- ⚡ It is important in this often difficult and troubled world for there to be things that also inspire and make you feel great to be part of humanity
 
 
 ### Connect with me:
@@ -64,15 +68,12 @@ I'm from Kenya, I Design and Develop cool things. I really enjoy learning langua
   <a href="https://www.pythonanywhere.com/" target="_blank" rel="noreferrer"> 
     <img src="https://www.pythonanywhere.com/static/anywhere/images/favicon.ico" alt="pythonanywhere" width="40" height="40"/> 
   </a> 
-  <a href="https://restfulapi.net/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/restfulapi/restfulapi-icon.svg" alt="restful" width="40" height="40"/> 
-  </a> 
 </p>
 
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muiruritrevor&show_icons=true&locale=en&layout=compact" alt="muiruritrevor's most used languages" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=muiruritrevor&show_icons=true&locale=en&layout=compact" alt="muiruritrevor's most used languages" />
 </p>
 
 <p>
@@ -84,7 +85,5 @@ I'm from Kenya, I Design and Develop cool things. I really enjoy learning langua
 </p>
 
 
-
-[![Trevor Muiruri GitHub stats](https://github-readme-stats.vercel.app/api?username=muiruritrevor)](https://github.com/muiruritrevor/github-readme-stats)
 
 
