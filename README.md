@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Trevor Muiruri</h1>
 <h3 align="center">Designer and Developer</h3
 
-
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
