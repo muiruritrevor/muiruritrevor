@@ -7,7 +7,6 @@
 
 - 💻 Building by arranging 0's & 1's
 - 👨🏾‍💻 currently learning **Go**
-- 💬 Ask me about **Python, Java, Django**
 - 📫 Reach me: trevormuirurii@gmail.com 
 - ⚡ It is important in this often difficult and troubled world for there to be things that also inspire and make you feel great to be part of humanity
 
