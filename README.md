@@ -1,14 +1,14 @@
 <h1 align="center">Hi 👋, I'm Trevor Muiruri</h1>
-<h3 align="center">Designer and Developer</h3
+<h3 align="center">Developer adn Designer</h3
 
 <br/>
 
 <img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
 
-- 💻 All of my projects are available at [---0---](---0---)
-- 👨🏾‍💻 I’m currently learning **Frameworks, Web Development, Back-end Development**
+- 💻 Building by arranging 0's & 1's
+- 👨🏾‍💻 currently learning **Go**
 - 💬 Ask me about **Python, Java, Django**
-- 📫 How to reach me: trevormuirurii@gmail.com 
+- 📫 Reach me: trevormuirurii@gmail.com 
 - ⚡ It is important in this often difficult and troubled world for there to be things that also inspire and make you feel great to be part of humanity
 
 
