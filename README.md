@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Trevor Muiruri</h1>
-<h3 align="center">Developer adn Designer</h3
+<h3 align="center">Developer and Designer</h3
 
 <br/>
 
