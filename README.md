@@ -2,11 +2,7 @@
 <h3 align="center">Developer</h3
 
 <br/>
-
-- 💻 Building by arranging 0's & 1's
-- 👨🏾‍💻 currently learning **Go**
-- 📫 Reach me: trevormuirurii@gmail.com 
-- ⚡ It is important in this often difficult and troubled world for there to be things that also inspire and make you feel great to be part of humanity
+⚡ It is important in this often difficult and troubled world for there to be things that also inspire and make you feel great to be part of humanity
 
 
 ### Connect with me:
