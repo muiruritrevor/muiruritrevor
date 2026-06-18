@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Trevor Muiruri</h1>
-<h3 align="center">Developer and Designer</h3
+<h3 align="center">Developer</h3
 
 <br/>
-
-<img align="right" alt="Coding" width="400" src="https://i.imgur.com/rTZkf4K.gif">
 
 - 💻 Building by arranging 0's & 1's
 - 👨🏾‍💻 currently learning **Go**
